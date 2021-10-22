@@ -1,0 +1,1 @@
+setxkbmap -option grp:switch,grp_led:scroll,grp:ctrl_shift_toggle us,ar
